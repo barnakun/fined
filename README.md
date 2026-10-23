@@ -74,3 +74,5 @@ MIT
 [coveralls-url]: https://coveralls.io/r/gulpjs/fined
 [coveralls-image]: https://img.shields.io/coveralls/gulpjs/fined/master.svg
 <!-- prettier-ignore-end -->
+
+Evaluation E8: dependency upgrade scanned by Migratowl.
